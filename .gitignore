@@ -1,0 +1,12 @@
+*.p12
+**/keys/*
+.idea/*
+*/.idea/*
+*/target/*
+target/*
+*/target/*
+target/docker/*
+*/target/docker/*
+project/project/target/*
+*/project/target/*
+*/project/project/target/*
